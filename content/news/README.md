@@ -10,10 +10,10 @@
 - [**無綫新聞 (i-Cable)**](無綫新聞/Readme.md) *(待補)*
 - [**商業電台 (Commercial Radio)**](商業電台/Readme.md) *(待補)*
 - [**香港 01 (HK01)**](HK01/README.MD)
-- [**明報 (Ming Pao)**](明報/Readme.md) *(待補)*
+- [**明報 (Ming Pao)**](明報/Readme.md)
 - [**信報財經新聞 (HKEJ)**](信報財經新聞/Readme.md)
 - [**星島日報 (Sing Tao)**](星島日報/Readme.md)
-- [**東方日報 (Oriental Daily)**](東方日報/readme.md)
+- [**東方日報 (Oriental Daily)**](news/東方日報/Readme.md)
 - [**獨立媒體 (InMedia)**](獨立媒體/Readme.md) *(待補)*
 - [**集誌社 (The Collective)**](集誌社/Readme.md) *(待補)*
 - [**法庭線 (The Witness)**](法庭線/Readme.md) *(待補)*
@@ -21,7 +21,7 @@
 
 ## 國際媒體 (International Media)
 
-- [**BBC UK**](BBC/readme.md)
+- [**BBC UK**](news/BBC/Readme.md)
 - [**CNN**](CNN/Readme.md)
 - [**Japan Times**](Japan%20Times/Readme.md)
 - [**SCMP (South China Morning Post)**](SCMP/Readme.md)

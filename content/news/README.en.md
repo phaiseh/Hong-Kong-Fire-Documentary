@@ -13,7 +13,7 @@ This section compiles news reports, feature articles, and official releases from
 - [**Ming Pao**](明報/Readme.md) *(Pending)*
 - [**HKEJ (Hong Kong Economic Journal)**](信報財經新聞/Readme.md)
 - [**Sing Tao Daily**](星島日報/Readme.md)
-- [**Oriental Daily**](東方日報/readme.md)
+- [**Oriental Daily**](news/東方日報/Readme.md)
 - [**InMedia**](獨立媒體/Readme.md) *(Pending)*
 - [**The Collective**](集誌社/Readme.md) *(Pending)*
 - [**The Witness**](法庭線/Readme.md) *(Pending)*
@@ -21,7 +21,7 @@ This section compiles news reports, feature articles, and official releases from
 
 ## International Media
 
-- [**BBC UK**](BBC/readme.md)
+- [**BBC UK**](news/BBC/Readme.md)
 - [**CNN**](CNN/Readme.md)
 - [**Japan Times**](Japan%20Times/Readme.md)
 - [**SCMP (South China Morning Post)**](SCMP/Readme.md)

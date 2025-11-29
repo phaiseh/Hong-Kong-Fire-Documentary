@@ -8,23 +8,23 @@
 
 ### 2025年11月28日（火災第三天）
 
-| 標題 | 連結 |
-|------|------|
+| 標題                                                | 連結                                                  |
+| ------------------------------------------------- | --------------------------------------------------- |
 | 大埔宏福苑五級火．持續更新｜增至128死79傷 政府18區設弔唁處 工程公司3負責人涉誤殺獲准保釋 | <https://www.stheadline.com/breaking-news/3521917/> |
-| 大埔宏福苑五級火︱新抱哭訴老爺最後一刻 廁所內濕棉被裹身手握身份證：佢驚家人搵唔到 | <https://www.stheadline.com/society/3522251/> |
-| 大埔宏福苑五級火｜屋宇署巡查127幢樓宇抽棚網樣本化驗 揭另有2大廈用發泡膠板封窗 已要求立即移除 | <https://www.stheadline.com/society/3522246/> |
-| 大埔宏福苑五級火｜市民自發獻花悼念 小朋友親繪謝卡贈消防 | <https://www.stheadline.com/breaking-news/3522242/> |
-| 大埔宏福苑五級火︱毋須「災民證」亦可獲經濟援助 社署澄清與「一戶一社工」服務無關 | <https://www.stheadline.com/society/3522241/> |
-| 大埔宏福苑五級火｜單親媽泣訴家園被毀 契媽契爺葬身火海：我可以做啲咩？ | <https://www.stheadline.com/breaking-news/3522239/> |
-| 大埔宏福苑五級火｜醫管局：一病人服務助理遇難 任職大埔醫院多年 仍有一員工失聯 | <https://www.stheadline.com/breaking-news/3522236/> |
-| 大埔宏福苑五級火︱義工自發支援 派香薰助眠 將辦瑜伽班助災民走出陰霾 | <https://www.stheadline.com/society/3522234/> |
-| 大埔宏福苑五級火│廉署拘7男1女 涉工程顧問、分判商及中間人 押疑犯赴「鴻毅建築師」搜證 | <https://www.stheadline.com/breaking-news/3522076/> |
-| 大埔宏福苑五級火︱18區每區設弔唁處 11.29至12.1供市民簽署弔唁冊（附地點） | <https://www.stheadline.com/society/3522260/> |
-| 大埔宏福苑五級火｜房屋局豁免災民入住過渡屋租金 何永賢：會持續一段較長時間 | <https://www.stheadline.com/society/3522270/> |
-| 大埔宏福苑五級火｜3工程公司負責人涉誤殺獲准保釋候查 12月上旬報到 | <https://www.stheadline.com/breaking-news/3522278/> |
-| 大埔宏福苑五級火｜約50戶災民入住房協策誠軒 凌嘉勤視察確保支援到位 | <https://www.stheadline.com/society/3522295/> |
-| 大埔宏福苑五級火｜香港紅十字會籌善款逾$7,000萬 200張床褥運庇護中心 | <https://www.stheadline.com/society/3522306/> |
-| 大埔宏福苑五級火｜粵贈無人機、滅火救援靴 深圳民眾收集「尿袋」等物資援港 | <https://www.stheadline.com/society/3522308/> |
+| 大埔宏福苑五級火︱新抱哭訴老爺最後一刻 廁所內濕棉被裹身手握身份證：佢驚家人搵唔到         | <https://www.stheadline.com/society/3522251/>       |
+| 大埔宏福苑五級火｜屋宇署巡查127幢樓宇抽棚網樣本化驗 揭另有2大廈用發泡膠板封窗 已要求立即移除 | <https://www.stheadline.com/society/3522246/>       |
+| 大埔宏福苑五級火｜市民自發獻花悼念 小朋友親繪謝卡贈消防                      | <https://www.stheadline.com/breaking-news/3522242/> |
+| 大埔宏福苑五級火︱毋須「災民證」亦可獲經濟援助 社署澄清與「一戶一社工」服務無關          | <https://www.stheadline.com/society/3522241/>       |
+| 大埔宏福苑五級火｜單親媽泣訴家園被毀 契媽契爺葬身火海：我可以做啲咩？               | <https://www.stheadline.com/breaking-news/3522239/> |
+| 大埔宏福苑五級火｜醫管局：一病人服務助理遇難 任職大埔醫院多年 仍有一員工失聯           | <https://www.stheadline.com/breaking-news/3522236/> |
+| 大埔宏福苑五級火︱義工自發支援 派香薰助眠 將辦瑜伽班助災民走出陰霾                | <https://www.stheadline.com/society/3522234/>       |
+| 大埔宏福苑五級火│廉署拘7男1女 涉工程顧問、分判商及中間人 押疑犯赴「鴻毅建築師」搜證      | <https://www.stheadline.com/breaking-news/3522076/> |
+| 大埔宏福苑五級火︱18區每區設弔唁處 11.29至12.1供市民簽署弔唁冊（附地點）        | <https://www.stheadline.com/society/3522260/>       |
+| 大埔宏福苑五級火｜房屋局豁免災民入住過渡屋租金 何永賢：會持續一段較長時間             | <https://www.stheadline.com/society/3522270/>       |
+| 大埔宏福苑五級火｜3工程公司負責人涉誤殺獲准保釋候查 12月上旬報到                | <https://www.stheadline.com/breaking-news/3522278/> |
+| 大埔宏福苑五級火｜約50戶災民入住房協策誠軒 凌嘉勤視察確保支援到位                | <https://www.stheadline.com/society/3522295/>       |
+| 大埔宏福苑五級火｜香港紅十字會籌善款逾$7,000萬 200張床褥運庇護中心            | <https://www.stheadline.com/society/3522306/>       |
+| 大埔宏福苑五級火｜粵贈無人機、滅火救援靴 深圳民眾收集「尿袋」等物資援港              | <https://www.stheadline.com/society/3522308/>       |
 
 ---
 
