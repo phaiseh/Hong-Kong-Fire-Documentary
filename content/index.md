@@ -111,7 +111,9 @@ Pull Request 適用於：
 
 ---
 
-如不熟悉 GitHub，可直接於 Issue 中留言，我們亦會協助整理。
+## 八、授權條款 (License)
+
+本專案採用 [Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/) 授權。
 
 # English Version
 

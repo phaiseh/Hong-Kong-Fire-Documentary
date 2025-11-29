@@ -111,4 +111,6 @@ Pull Requests are suitable for:
 
 ---
 
-If you are unfamiliar with GitHub, you may also leave a comment in Issues and maintainers will assist with formatting and integration.
+## 8. License
+
+This project is licensed under the [Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/).
