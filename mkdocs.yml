@@ -26,10 +26,10 @@ theme:
         icon: material/brightness-4
         name: Switch to light mode
 
-docs_dir: .
+docs_dir: content
 
 nav:
-  - 主頁: README.md
+  - 主頁: index.md
   - 時間線: timeline/
   - 現場片段: videos/
   - 新聞報道: news/
@@ -40,11 +40,3 @@ nav:
 
 plugins:
   - search
-
-exclude_docs: |
-  .github/
-  requirements.txt
-  mkdocs.yml
-  .gitignore
-  *.sh
-
