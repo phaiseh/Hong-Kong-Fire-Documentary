@@ -25,6 +25,7 @@
 - [**英文虎報 (The Standard)**](The%20Standard/README.md)
 - [**巴士的報 (Bastille Post)**](bastille-post/README.md)
 - [**人民日報大湾区(People's Daily GBA)**](peoples-daily-gba/README.md)
+- [**香港理工大學 (PolyU)**](PolyU/README.md)
 
 ## 國際媒體 (International Media)
 
