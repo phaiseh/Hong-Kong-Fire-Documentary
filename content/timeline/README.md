@@ -2,8 +2,9 @@
 
 ## 目錄
 
-1. [大埔宏福苑大火線性時間表](fire-linear-timeline-zh.md)
-2. [大埔宏福苑大火-政府部門執法行動時間線](gov-operation-timeline-zh.md)
+### 1. [大埔宏福苑大火線性時間表](fire-linear-timeline-zh.md)
+
+### 2. [大埔宏福苑大火-政府部門執法行動時間線](gov-operation-timeline-zh.md)
 
 ## Table of contents
 
