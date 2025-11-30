@@ -47,7 +47,7 @@
 
 ## 四、主要研究與技術議題
 
-本存庫將整理及分析以下議題：
+本存庫將整理以下議題的文獻及分析：
 
 - 竹棚與金屬棚架的物理特性及安全比較
 - 香港棚網的法定阻燃要求及相關標準
@@ -252,7 +252,7 @@ All main content is located in the `content/` directory:
 
 ## 4. Key Technical and Research Topics
 
-This repository will document and analyze topics including:
+This repository curates documentation and analyses on the following topics:
 
 - Physical and safety comparisons between bamboo scaffolding and metal scaffolding
 - Legal flame-retardant requirements and standards for safety netting in Hong Kong
