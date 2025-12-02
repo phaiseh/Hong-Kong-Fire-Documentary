@@ -7,7 +7,7 @@
 - [**Now 新聞**](now-news/README.md)
 - [**香港電台 (RTHK)**](rthk/README.md)
 - [**有線新聞 (i-Cable)**](i-cable/README.md)
-- [**無綫新聞 (TVB)**](tvb/README.md) *(待補)*
+- [**無綫新聞 (TVB)**](tvb/README.md)
 - [**HOY TV**](hoy-tv/README.md)
 - [**商業電台 (Commercial Radio)**](commercial-radio/README.md)
 - [**香港 01 (HK01)**](hk01/README.md)
